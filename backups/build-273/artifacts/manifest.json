@@ -1,0 +1,46 @@
+[
+  {
+    "file": "273_JUFbook_Focused_Author_Book_Filters_FULL_2026-10-03.zip",
+    "size_bytes": 4212629,
+    "sha256": "2a987ffa06ae0b59e30ebca656f6a4dc73667361e65ad4a92f3b18d446b0cf3b",
+    "base64_chars": 5616840,
+    "parts": [
+      "part-001.b64",
+      "part-002.b64",
+      "part-003.b64",
+      "part-004.b64",
+      "part-005.b64",
+      "part-006.b64",
+      "part-007.b64",
+      "part-008.b64",
+      "part-009.b64",
+      "part-010.b64",
+      "part-011.b64",
+      "part-012.b64",
+      "part-013.b64",
+      "part-014.b64",
+      "part-015.b64",
+      "part-016.b64",
+      "part-017.b64",
+      "part-018.b64",
+      "part-019.b64",
+      "part-020.b64",
+      "part-021.b64",
+      "part-022.b64",
+      "part-023.b64",
+      "part-024.b64"
+    ]
+  },
+  {
+    "file": "274_JUFbook_Focused_Filters_FULL_Update_Report_History_PATCH_2026-10-03.zip",
+    "size_bytes": 685844,
+    "sha256": "d42c6987e134ef8b3643bb9d347691003ef7fb08a8571c40c767cc03ab3b0ad3",
+    "base64_chars": 914460,
+    "parts": [
+      "part-001.b64",
+      "part-002.b64",
+      "part-003.b64",
+      "part-004.b64"
+    ]
+  }
+]
